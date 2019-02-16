@@ -1,0 +1,9 @@
+2019-01-27 19:00:56 [restartedMain] INFO  com.dev.Post28MinutesApplication - Starting Post28MinutesApplication on DESKTOP-T8TL8EH with PID 11304 (started by ASUS ROG in C:\Users\ASUS ROG\eclipse-workspace\Spring-Rest-Api)
+2019-01-27 19:00:56 [restartedMain] DEBUG com.dev.Post28MinutesApplication - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+2019-01-27 19:00:56 [restartedMain] INFO  com.dev.Post28MinutesApplication - No active profile set, falling back to default profiles: default
+2019-01-27 19:01:09 [restartedMain] INFO  com.dev.Post28MinutesApplication - Started Post28MinutesApplication in 13.756 seconds (JVM running for 16.309)
+2019-01-27 19:01:24 [restartedMain] INFO  com.dev.Post28MinutesApplication - Starting Post28MinutesApplication on DESKTOP-T8TL8EH with PID 11304 (started by ASUS ROG in C:\Users\ASUS ROG\eclipse-workspace\Spring-Rest-Api)
+2019-01-27 19:01:24 [restartedMain] DEBUG com.dev.Post28MinutesApplication - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+2019-01-27 19:01:24 [restartedMain] INFO  com.dev.Post28MinutesApplication - No active profile set, falling back to default profiles: default
+2019-01-27 19:01:27 [restartedMain] INFO  com.dev.Post28MinutesApplication - Started Post28MinutesApplication in 3.269 seconds (JVM running for 33.659)
+2019-01-27 19:03:37 [http-nio-9000-exec-1] INFO  c.dev.controller.RestPostController - GET the lists of all the posts SUCCESS
